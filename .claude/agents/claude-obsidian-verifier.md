@@ -1,0 +1,1 @@
+../../claude-obsidian/agents/verifier.md
